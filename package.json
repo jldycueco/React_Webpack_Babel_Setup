@@ -39,6 +39,7 @@
   },
   "dependencies": {
     "react": "^16.9.0",
-    "react-dom": "^16.9.0"
+    "react-dom": "^16.9.0",
+    "url-loader": "^2.1.0"
   }
 }
